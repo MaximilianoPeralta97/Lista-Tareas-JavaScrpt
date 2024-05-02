@@ -1,0 +1,23 @@
+
+.contenido{
+    color: #14213d ;
+    font-family: "Jersey 15", sans-serif;
+    line-height: 2;
+    font-weight: 200;
+    font-style: normal;
+    border:5px solid #ef233c ;
+    text-align: center;
+    background-color: #06D6A0;
+    text-shadow: 1px 1px 1px #ef233c;
+    
+
+}
+li{
+    margin: 10px 0;
+
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    
+}
